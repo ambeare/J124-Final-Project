@@ -8,7 +8,7 @@ The dataset I chose focused on crashes and fatalities among all airlines in the 
 
 This data proved to be rather interesting, as many more non-US based airlines experienced higher levels of fatalities than US based ones. I also thought it was interesting how the airline that had the least amount of non-fatal incidents from 1985-1999 and from 2000-2014 was TAP Portugal.
 
-![alt text](https://docs.google.com/spreadsheets/d/e/2PACX-1vRtL5uCbaRbU567S5Oa7NA6Re_8CaXIbX3fdz2LZVxjBtvECuMM5TlJny3ren_LgQnpFyvUQWKPbJP0/pubchart?oid=458574416&format=image)   
+![alt text](https://docs.google.com/spreadsheets/d/e/2PACX-1vRtL5uCbaRbU567S5Oa7NA6Re_8CaXIbX3fdz2LZVxjBtvECuMM5TlJny3ren_LgQnpFyvUQWKPbJP0/pubchart?oid=458574416&format=image)    
 ![alt text](https://docs.google.com/spreadsheets/d/e/2PACX-1vRtL5uCbaRbU567S5Oa7NA6Re_8CaXIbX3fdz2LZVxjBtvECuMM5TlJny3ren_LgQnpFyvUQWKPbJP0/pubchart?oid=2141154827&format=image)  
 
 Also, the airline with the highest number non-fatal incidents from 1985-1999 was Aeroflot, a Russian airline, with 76 incidents, and the airline with the most incidents from 2000-2014 was Delta/Northwest, a US based airline, with 26 incidents. Also, I thought it was worth mentioning that the top four airlines who had reported incidents from 2000-2014 were all US based, which raises the question of whether other airlines did not accurately report all their incidents (which would also explain the significant drop from 76 incidents from 1985-1999 to just 26 from 2000-2014).
