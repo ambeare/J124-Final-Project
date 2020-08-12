@@ -8,7 +8,7 @@ The dataset I chose focused on crashes and fatalities among all airlines in the 
 
 ![alt text](https://docs.google.com/spreadsheets/d/e/2PACX-1vRtL5uCbaRbU567S5Oa7NA6Re_8CaXIbX3fdz2LZVxjBtvECuMM5TlJny3ren_LgQnpFyvUQWKPbJP0/pubchart?oid=1673640997&format=image)
 
-![alt text](https://docs.google.com/spreadsheets/d/e/2PACX-1vRtL5uCbaRbU567S5Oa7NA6Re_8CaXIbX3fdz2LZVxjBtvECuMM5TlJny3ren_LgQnpFyvUQWKPbJP0/pubchart?oid=2017158470&format=image)
+![alt text](https://docs.google.com/spreadsheets/d/e/2PACX-1vRtL5uCbaRbU567S5Oa7NA6Re_8CaXIbX3fdz2LZVxjBtvECuMM5TlJny3ren_LgQnpFyvUQWKPbJP0/pubchart?oid=2017158470&format=image) 
 
 It should also be noted that Kenya Airways was ranked the most safe airline from 1985-1999, but it then dropped to #54 with 283 fatalities from 2000-2014. This raises questions regarding whether the data is truly accurate or not, and if it is, it asks why the significant drop over the years in safety from a seemingly safe airline? One can only wonder what the levels of conflict, poverty, corruption, and any other negative impacts on the economy must have been for this airline to experience such a fall from grace.
 
