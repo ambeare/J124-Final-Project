@@ -15,7 +15,7 @@ Also, the airline with the highest number of non-fatal incidents from 1985-1999 
 
 This same point regarding disparities based on location is only magnified when further interrogating the data; China Arilines had the greatest number of fatalities from 1985-1999 at 535 and Malaysia Airlines had the highest number of fatalities from 2000-2014 at 537, but Kenya Airways had the least amount of fatalities from 1985-1999 while Aer Lingus, an Irish airline, had the least amount of fatalities from 2000-2014. These changes based on region indicate a significant disparity between level of safety and location, as Aer Lingus, an airline located in a more developed country, has been deemed the safest airline in the world based on this data, while Malaysia Airlines, a foreign airline based in a relatively underdeveloped country, has been deemed the most dangerous airline in the world based off of this data. This conclusion can be dangerous, though, as this data could be used by some to reinforce stereotypes regarding safety in non-Anglo regions of the world.
 
-![alt text](https://docs.google.com/spreadsheets/d/e/2PACX-1vRtL5uCbaRbU567S5Oa7NA6Re_8CaXIbX3fdz2LZVxjBtvECuMM5TlJny3ren_LgQnpFyvUQWKPbJP0/pubchart?oid=1769396206&format=image)   
+![alt text](https://docs.google.com/spreadsheets/d/e/2PACX-1vRtL5uCbaRbU567S5Oa7NA6Re_8CaXIbX3fdz2LZVxjBtvECuMM5TlJny3ren_LgQnpFyvUQWKPbJP0/pubchart?oid=1769396206&format=image)    
 
 ![alt text](https://docs.google.com/spreadsheets/d/e/2PACX-1vRtL5uCbaRbU567S5Oa7NA6Re_8CaXIbX3fdz2LZVxjBtvECuMM5TlJny3ren_LgQnpFyvUQWKPbJP0/pubchart?oid=1673640997&format=image)  
 
