@@ -12,6 +12,7 @@ It should also be noted that Kenya Airways was ranked the most safe airline from
 
 Another interesting (albeit terrifying) fact about the data is that there has been a significant increase in fatalities across the globe from 2000-2014 versus 1985-1999. This may be due to a lack of accessible data spanning from that many years ago, but it is still an interesting thought to ponder.
 
-https://docs.google.com/spreadsheets/d/e/2PACX-1vRtL5uCbaRbU567S5Oa7NA6Re_8CaXIbX3fdz2LZVxjBtvECuMM5TlJny3ren_LgQnpFyvUQWKPbJP0/pubchart?oid=2007688437&format=interactive 
+<iframe width="619" height="294" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRtL5uCbaRbU567S5Oa7NA6Re_8CaXIbX3fdz2LZVxjBtvECuMM5TlJny3ren_LgQnpFyvUQWKPbJP0/pubchart?oid=2007688437&amp;format=interactive"></iframe> 
+
 
 
